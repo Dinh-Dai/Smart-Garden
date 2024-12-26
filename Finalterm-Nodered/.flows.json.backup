@@ -424,15 +424,6 @@
         "sessionExpiry": ""
     },
     {
-        "id": "c30739faf99ea2dc",
-        "type": "ui_group",
-        "name": "Group 2",
-        "tab": "1662052d321dc588",
-        "order": 2,
-        "disp": true,
-        "width": 6
-    },
-    {
         "id": "468277386ff8ab7a",
         "type": "mqtt-broker",
         "name": "",
