@@ -36,7 +36,7 @@ Các linh kiện, thiết bị khác:
 ![NodeRed_Flow](https://github.com/user-attachments/assets/147a03db-7649-4278-b3ae-995b93f706be)
 
 # NodeRed Dashboard
-![Dash_Board](https://github.com/user-attachments/assets/264885c9-dbba-4fca-9d3a-580291778ae9)
+![Dash_Board]!(https://github.com/user-attachments/assets/7d5284e0-37c7-48ac-95cf-3ce7f7668115)
 
 # Video Demo: Automatic Mode 
 https://github.com/user-attachments/assets/cb775be7-99c1-46e7-8651-5dd842b575f6
