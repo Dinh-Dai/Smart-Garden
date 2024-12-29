@@ -1,5 +1,5 @@
 # SMART GREEN-HOUSE USING IOT TECHNOLOGY
-Vườn thông minh
+Ứng dụng công nghệ IoT trong nhà kính thông minh
 
 # Đặt vấn đề
 Trong nông nghiệp hiện đại, nhà kính được xem là mô hình quan trọng giúp điều khiển môi trường trồng trọt như nhiệt độ, độ ẩm, ánh sáng, và lượng nước. Tuy nhiên, việc quản lý nhà kính truyền thống thường tốn nhiều thời gian và công sức. Do đó, đề tài này sẽ xây dựng một hệ thống nhà kính thông minh sử dụng công nghệ IoT nhằm đáp ứng các mục tiêu sau:
