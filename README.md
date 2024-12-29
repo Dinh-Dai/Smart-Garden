@@ -3,13 +3,14 @@
 
 # Đặt vấn đề
 Trong nông nghiệp hiện đại, nhà kính được xem là mô hình quan trọng giúp điều khiển môi trường trồng trọt như nhiệt độ, độ ẩm, ánh sáng, và lượng nước. Tuy nhiên, việc quản lý nhà kính truyền thống thường tốn nhiều thời gian và công sức. Do đó, đề tài này sẽ xây dựng một hệ thống nhà kính thông minh sử dụng công nghệ IoT nhằm đáp ứng các mục tiêu sau:
-* Giám sát và phân tích các yếu tố môi trường trong nhà kính như là  nhiệt độ, độ ẩm, độ ẩm đất và cường độ ánh sáng.
+* Giám sát và phân tích các yếu tố môi trường trong nhà kính như là nhiệt độ, độ ẩm, độ ẩm đất và cường độ ánh sáng.
 * Tự động điều khiển thiết bị như quạt, máy bơm, và hệ thống đèn LED dựa trên ngưỡng được cài đặt.
 * Kiểm soát thời gian và điều khiển thủ công các thiết bị theo yêu cầu người dùng.
 * Tối ưu hóa các tài nguyên sử dụng và giao diện người dùng thông minh.
 
 # Linh kiện sử dụng
 ESP32 development board
+
 Cảm biến:
 * Cảm biến nhiệt độ và độ ẩm DHT11
 * Cảm biến độ ẩm đất
